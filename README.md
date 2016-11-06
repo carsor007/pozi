@@ -13,4 +13,4 @@ The following topics can be found in this documentation:
 
 | Revision | Author | Changes |
 | -------- | ------ | ------- |
-| 1.0.0    | Upnext | Initial version |
+| 1.0.0    | Nangos | Initial version |
